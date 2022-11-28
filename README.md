@@ -1,8 +1,6 @@
 # Quizzer - quizzing made easy
 
 ## Table of Contents 📕
-
-- [About the Challenge](#tally-codebrewers-2022)
 - [Tools And Technologies](#tools-and-technology)
 - [Features](#features-)
   	- [Homepage](#homepage)
@@ -13,19 +11,7 @@
   	- [Scorecard](#scorecard)
   	- [Statistics](#statistics)
 - [Future Work](#future-work)
-- [Contributing Guidelines](#contributing-guidelines)
-- [Installation or Dev Setup](#setting-up-the-repository-locally)
 - [Gallery](#gallery)
-- [Database Schema](#database-schema)
-#  Tally CodeBrewers-2022
-* The Challenge
-	* Build a Quiz Organizing Platform
-	* Essential features which were expected
-	   1. Quiz Admin Register, and Sign In flow 
-	   2. Quiz Admin can publish a quiz.
-	   3. Quiz taker can attempt a quiz using a shared link. 
-	   4. Score of all participants for a quiz to be available to quiz admin at the end of quiz
-	* Detailed View of the Problem Statement can be found [here](https://mirror1.tallysolutions.com/Downloads/office/ProblemStatement_CommanderofFullStack.pdf)
 
 
 ## Tools and Technology
@@ -90,9 +76,9 @@ everyone.
 |||
 |:-------------------------:|:-------------------------:|
 |<img width="1604" alt="login" src="https://github.com/YugAadiwasi/Quizzer--quizing-made-easy/blob/main/images/login.png">  Login Page |  <img width="1604" alt="register" src="https://github.com/YugAadiwasi/Quizzer--quizing-made-easy/blob/main/images/register.png"> Register |
-|<img width="1604" alt="Homepage" src="https://raw.githubusercontent.com/MiHarsh/Tally-Quizzer/main/images/home.png"> Homepage|<img width="1604" alt="dashboard" src="https://github.com/YugAadiwasi/Quizzer--quizing-made-easy/blob/main/images/dashboard.png"> Dashboard |
+|<img width="1604" alt="Homepage" src="https://github.com/YugAadiwasi/Quizzer--quizing-made-easy/blob/main/images/home.png"> Homepage|<img width="1604" alt="dashboard" src="https://github.com/YugAadiwasi/Quizzer--quizing-made-easy/blob/main/images/dashboard.png"> Dashboard |
  <img width="1604" alt="create new quiz" src="https://github.com/YugAadiwasi/Quizzer--quizing-made-easy/blob/main/images/create-quiz.png">Create/Edit a Quiz|<img width="1604" alt="view-quiz-History" src="https://github.com/YugAadiwasi/Quizzer--quizing-made-easy/blob/main/images/quiz-history.png"> View Quiz History|
 |<img width="1604" alt="View-participants" src="https://github.com/YugAadiwasi/Quizzer--quizing-made-easy/blob/main/images/view-participants.png"> Add/View Participants |  <img width="1604" alt="view statistics" src="https://github.com/YugAadiwasi/Quizzer--quizing-made-easy/blob/main/images/view-stats.png"> Statistics Page|
-<img width="1604" alt="view-score-card" src="https://github.com/YugAadiwasi/Quizzer--quizing-made-easy/blob/main/images/score-card.png"> View Score Card| <img width="1604" alt="mail test link" src="https://raw.githubusercontent.com/MiHarsh/Tally-Quizzer/main/images/quizmail.png"> Mail Test Link|
+<img width="1604" alt="view-score-card" src="https://github.com/YugAadiwasi/Quizzer--quizing-made-easy/blob/main/images/score-card.png"> View Score Card
 <img width="1604" alt="view-instructions-page" src="https://github.com/YugAadiwasi/Quizzer--quizing-made-easy/blob/main/images/instructions-page.png"> Instructions Page| <img width="1604" alt="instant score release" src="https://github.com/YugAadiwasi/Quizzer--quizing-made-easy/blob/main/images/instant-score-release.png"> Instant Score Release|
 <img width="1604" alt="quizzing-window" src="https://github.com/YugAadiwasi/Quizzer--quizing-made-easy/blob/main/images/quizzing-window.png"> Quizzing Window| 
